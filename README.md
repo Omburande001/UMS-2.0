@@ -27,8 +27,6 @@ UMS 2.0 is a modernized and efficient **University Management System** designed 
 ---
 
 ## 📸 Screenshots
-
-![Screenshot (116)](https://github.com/user-attachments/assets/bd332156-2408-40e4-82eb-4f31799b69ce)
 ![Screenshot (105)](https://github.com/user-attachments/assets/94984781-9f4c-4fa5-b2bd-bef10922764c)
 ![Screenshot (106)](https://github.com/user-attachments/assets/eaaed7ac-e30c-486f-b547-7e3a1de127d6)
 ![Screenshot (111)](https://github.com/user-attachments/assets/e63ca195-9a13-4929-b461-d2feadaa823f)
@@ -40,6 +38,7 @@ UMS 2.0 is a modernized and efficient **University Management System** designed 
 ![Screenshot (113)](https://github.com/user-attachments/assets/fda0df53-c79e-4145-89b4-ef56ca9ceba7)
 ![Screenshot (115)](https://github.com/user-attachments/assets/36012fb3-be41-4f77-8001-90af1ffa6897)
 ![Screenshot (117)](https://github.com/user-attachments/assets/65d5d5f5-4a85-4a47-813a-a0535597c65d)
+![Screenshot (116)](https://github.com/user-attachments/assets/bd332156-2408-40e4-82eb-4f31799b69ce)
 
 ---
 
@@ -67,11 +66,8 @@ Run the Project
 
 Execute Main.java or the launcher class from the IDE.
 
-👨‍💻 Author
+👨‍💻 Author : 
 Om Burande
-
-GitHub
-
 Email: (omburande764@gmail.com)
 
 📜 License
